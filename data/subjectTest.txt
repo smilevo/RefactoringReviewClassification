@@ -1,0 +1,427 @@
+__label__objective __label__quality  refactor clone workspace function use convert map to xml 
+__label__quality __label__testing  refactor tempurl functional test tryfinally 
+__label__objective __label__quality __label__testing  refactor test auth plugin config fixture 
+__label__quality  refactor l pop code pass mac ip info readably 
+__label__quality  refactor runmirror readable 
+__label__objective __label__quality __label__testing  refactor list servers negative test fix remain gate bug 
+__label__objective __label__quality __label__testing  refactor diskfile 
+__label__integration __label__objective __label__testing  refactor patch haproxy package 
+__label__integration __label__objective __label__quality __label__testing  refactor reinstall partition preservation test 
+__label__integration __label__objective  xenapi refactor message string remove locals 
+__label__quality  relinker refactor share common code 
+__label__objective __label__testing  refactor test agent scheduler 
+__label__objective __label__testing  refactor token fetch 
+__label__objective __label__testing  refactor unit test cdh plugin 
+__label__objective __label__quality __label__testing  refactor test volume file 
+__label__integration __label__objective __label__testing  refactor meta patch openstackpanko 
+__label__objective __label__quality  refactor block device pass command line parameters 
+__label__integration __label__objective  refactor host specific kernel module task 
+__label__objective __label__quality  refactor test transfer request py test snapshot py 
+__label__objective __label__testing  refactor management verbs check utils 
+__label__quality  refactoring future work move storage code class 
+__label__testing  wip refactor security group scenario test 
+__label__integration __label__objective  refactor api test v 
+__label__refactoring  mgm refactor pool manager ready new function delete 
+__label__integration __label__objective  refactor base use change python 
+__label__integration __label__objective __label__quality __label__testing  refactor test case relate instance object 
+__label__integration __label__objective __label__quality  refactoring nicira plugin support nvp dhcp metadata service 
+__label__integration __label__objective  refactor compute api message call compute manager 
+__label__integration __label__objective  code refactoring couchdb 
+__label__objective __label__testing  testrunner refactor mock unittests 
+__label__objective __label__quality __label__testing  refactor allocationfixture placement test 
+__label__objective __label__testing  refactor volume boot pattern test 
+__label__objective __label__quality __label__testing  refactor hoist helpers expect package namespace 
+__label__integration __label__objective __label__testing  refactor ffwd run run rd controlplane 
+__label__integration  complete refactor glancestores api 
+__label__objective  fix bug introduce manager refactor 
+__label__objective __label__quality  refactor hyperv layer agent 
+__label__objective __label__quality __label__testing  refactor heat gate test contrib support 
+__label__objective __label__quality  fix bug log logic small refactoring 
+__label__integration __label__objective __label__testing  refactor api test run middleware 
+__label__integration __label__objective __label__testing  refactor ntp 
+__label__objective __label__quality  refactor remove functionscommon 
+__label__objective  colorize neutron log output refactor log setup code 
+__label__objective __label__quality __label__testing  refactor test attribute py 
+__label__integration __label__objective  refactoring ks model 
+__label__quality __label__refactoring  refactor use basedisk name path 
+__label__objective __label__quality  refactor graphite stanzas readability 
+__label__objective  refactor remove token formatters dep token data create 
+__label__objective  refactor task handler bind 
+__label__objective __label__quality __label__testing  refactor charm py charm py test 
+__label__quality  slight refactor policy engine builtin functionality 
+__label__objective __label__quality  refactor novanet cidr validation prep bug fix 
+__label__objective __label__quality  refactor common keystone methods 
+__label__integration __label__testing  refactor interface api unit test 
+__label__integration __label__objective __label__quality  refactor role list subcommand identity v api 
+__label__integration __label__quality  refactor cinder volume v api change 
+__label__refactoring  refactor huawei volume driver 
+__label__objective  refactor list function docker driver 
+__label__objective __label__quality  refactor common check instantiate ipmitool class 
+__label__integration __label__objective  service type framework refactoring 
+__label__objective __label__quality  refactor cleanup job py module 
+__label__integration __label__objective __label__quality  xenapi refactor rotate xen guest log avoid race 
+__label__integration __label__quality  refactor xenapi connection xenapi driver 
+__label__integration __label__objective __label__quality  refactor config drive relate function 
+__label__objective __label__testing  refactor add setup test group identity admin base test class 
+__label__testing  refactors nova cmd utils 
+__label__integration __label__objective __label__quality  apiref refactor manila snapshot api 
+__label__objective __label__quality  refactor code select boot kernel 
+__label__objective __label__testing  rt refactor test dupe filter unit test 
+__label__objective __label__quality __label__testing  powermax driver unit test refactoring 
+__label__quality  refactor rpc backend vhost creation 
+__label__integration __label__objective  refactor create port form workflow 
+__label__objective __label__quality  revocation engine refactoring 
+__label__objective __label__quality __label__testing  refactor status timeout methods tempest test 
+__label__integration __label__quality  refactor api create volume flow 
+__label__objective  revert refactor rpc client 
+__label__integration __label__objective  refactor authorize method wsgi py 
+__label__objective __label__quality  refactor floatingip add dependencies method 
+__label__integration __label__objective  refactor ovsdbswitchapi 
+__label__integration __label__objective __label__quality  agent db refactor 
+__label__integration __label__objective  refactoring error handle refstack api 
+__label__integration  refactor dashboard api 
+__label__quality  refactoring fix inheritance hierarchy autoscaleresourcegroup case attempt common functionality inheritance hierarchy entirely perhaps heat scale module 
+__label__objective __label__quality __label__testing  trivial refactor dict get test assertion 
+__label__objective __label__testing  refactor resources list testcase test db plugin py 
+__label__objective __label__testing  refactor scheduler rpc api test case 
+__label__objective __label__quality __label__testing  refactor fix dummy process fixture 
+__label__objective __label__quality  refactor region notification code need unit 
+__label__objective __label__quality  libvirt refactor handle pcie root port 
+__label__integration __label__objective __label__testing  refactor rabbitmq order 
+__label__objective __label__quality __label__testing  refactor instanceexists docstring unit test 
+__label__integration __label__objective  refactor api params tuples set 
+__label__integration __label__objective __label__quality __label__testing  tempest refactor api test admin test share servers module 
+__label__integration __label__objective  ceilometerapi gnocchiapi wsgi refactor 
+__label__objective __label__quality __label__testing  refactoring code 
+__label__objective __label__testing  refactoring base test case class 
+__label__objective __label__testing  refactor grafana py test coverage 
+__label__objective __label__quality __label__testing  refactor plugin check logic 
+__label__objective __label__quality  refactor blockdevice handle partition 
+__label__objective __label__refactoring  refactor glance image v behaviors 
+__label__objective __label__testing  refactor verify get test 
+__label__objective __label__quality __label__testing  refactor change status cod test name 
+__label__integration __label__objective  refactor extract method connect volume 
+__label__integration  refactor placement api 
+__label__integration __label__objective  refactor tiller command handle methods 
+__label__integration __label__objective __label__quality __label__testing  orchestration api refactor test list resources 
+__label__objective __label__quality  wip merge refactor dvr local edge router class 
+__label__objective __label__testing  refactored test test cloud pass random pythonhashseed 
+__label__objective __label__quality  refactor port bind cod 
+__label__quality __label__testing  refactor test network info gateway test 
+__label__integration __label__objective __label__quality __label__testing  propose vmware spawn refactor 
+__label__objective __label__testing  refactor service test require db 
+__label__objective __label__testing  refactor rsync unit test 
+__label__refactoring __label__testing  post v image image id tag tag refactoring 
+__label__integration __label__objective  xenapi refactor extract get virtual size 
+__label__integration __label__objective  refactor exist implementation class 
+__label__objective  refactor resource definition parse hot cfn 
+__label__objective __label__quality  refactor argument provider fetch 
+__label__quality  refactor function read astute yaml directly 
+__label__objective __label__quality __label__testing  refactor image upload command 
+__label__integration  refactoring artifact db api 
+__label__integration __label__objective __label__testing  placement refactor heal allocations rt 
+__label__refactoring  tempest refactoring part 
+__label__objective __label__testing  refactoring drop code common 
+__label__integration __label__objective __label__testing  add scenario test refactor api test 
+__label__objective __label__quality  refactoring structure rally verification 
+__label__integration __label__objective  refactor server password metadata avoid direct db usage 
+__label__quality  refactor resource update function reduce complexity 
+__label__objective __label__quality __label__testing  minor refactoring auto schedule routers 
+__label__quality  refactor docker cmd arg build 
+__label__integration __label__objective __label__quality  refactor abstract status set instance utils 
+__label__objective __label__testing  refactors network test scenario support advance network test 
+__label__integration __label__objective  refactor rpc callback version discovery mechanism 
+__label__integration __label__testing  refactor integrate test support v v api test 
+__label__objective  refactor build device metadata 
+__label__objective __label__testing  refactored manage py testable useful test 
+__label__objective __label__quality  refactor detach vopt use detach storage 
+__label__integration __label__objective  refactor float ip update check 
+__label__integration __label__objective  refactoring code 
+__label__integration  refactor v arq api 
+__label__objective __label__quality __label__testing  refactor bulk data check mixin class 
+__label__integration __label__testing  refactor db api test 
+__label__objective __label__quality __label__testing  refactor code linux net cleaner increase performace 
+__label__refactoring  light refactoring 
+__label__quality  refactor clone image volume 
+__label__integration __label__objective __label__testing  refactor patch netsnmp package 
+__label__quality __label__testing  refactoring test test api 
+__label__objective __label__quality  refactor downgrade assignment table complexity 
+__label__objective __label__quality __label__testing  xenapi refactor common image download library 
+__label__objective  refactor driverbase get instance 
+__label__refactoring __label__testing  refactor bandwidth relate functional test 
+__label__testing  refactor image test case share image 
+__label__objective __label__testing  refactor backup rpc api test case 
+__label__integration __label__testing  refactored api v test use testscenarios 
+__label__integration __label__objective  refactoring api cue object db modules 
+__label__integration  refactor subunitsql dbapi 
+__label__objective __label__quality  refactor away flag define helpers 
+__label__objective  refactoring code check connection listener refer bug 
+__label__integration __label__objective  refactor project api ui generic 
+__label__objective __label__quality __label__testing  refactor sphinxext add unit test 
+__label__objective __label__quality  refactor code build tree helpers 
+__label__objective __label__refactoring  refactor common event code event utils module 
+__label__objective __label__quality  refactor allow all content type readability 
+__label__integration __label__objective  blockstorage behaviors refactor versioning implement exceptionraising behaviors volumes api remove blockstorage provider add volume snapshot statuses model refactored response model versioned volumes api v clean rax auth extensions fix volumetypelist model add default volume type config property 
+__label__objective __label__quality __label__testing  refactor ironiclib oslo privsep 
+__label__objective __label__quality __label__testing  refactor test networkdriver createnetwork 
+__label__objective __label__testing  refactor recon use single md hash for file function 
+__label__objective __label__quality  refactor trilio charm base class 
+__label__refactoring  refactor extract placement helper function functional test 
+__label__integration  refactor cluster create 
+__label__objective __label__quality __label__testing  refactor v scenario test 
+__label__quality  refactor install solumclient function 
+__label__objective  refactor install configure split 
+__label__objective __label__refactoring  refactoring function checker py part 
+__label__quality __label__testing  refactor dl rpms sh 
+__label__objective __label__quality  refactor optimizer 
+__label__objective __label__quality __label__testing  refactoring cleanup view builders 
+__label__integration __label__objective  vpnaas device driver agent refactoring 
+__label__integration __label__objective __label__quality __label__testing  refactor inventory management filesystem 
+__label__objective __label__quality __label__testing  refactor pinger class 
+__label__objective  refactor get task spec mechanism polymorphic dsl entities 
+__label__objective  refactor registry request action 
+__label__integration __label__objective  refactor node uuid state 
+__label__integration __label__quality  refactor update test instance test volumes api 
+__label__quality  refactor image module 
+__label__objective __label__quality __label__testing  xenapi refactor detach volume 
+__label__integration __label__objective  refactor image code support versions 
+__label__objective __label__quality __label__testing  refactoring cleanup view builders 
+__label__objective __label__quality  refactor blockdevice handle local loop 
+__label__objective __label__quality __label__testing  refactor create common base notification test 
+__label__objective  refactoring finish split do node deploy 
+__label__objective __label__quality __label__testing  refactor test common generators base 
+__label__objective __label__quality __label__testing  refactoring check stack autoscaling heat ostf test 
+__label__quality  refactor waiters tempest plugin 
+__label__objective __label__quality  refactoring consistency 
+__label__objective __label__testing  refactor test case test float ip dnsto simple code 
+__label__objective __label__quality __label__testing  refactored storage test use testscenarios 
+__label__objective __label__quality  refactor trigger controller 
+__label__objective __label__quality __label__testing  refactoring functional test config opt 
+__label__integration __label__objective __label__quality  apiref refactor manila security service api 
+__label__integration __label__objective  refactor remove items nova api openstack compute attach interfaces py 
+__label__refactoring  minor change nonfunctional refactoring 
+__label__objective __label__quality __label__testing  refactor refine core automate vpc code 
+__label__objective __label__testing  vpnaas refactor functional test use discover 
+__label__quality __label__testing  refactor test code reduce duplication 
+__label__objective __label__testing  finish small unit test refactor api v test 
+__label__objective __label__quality __label__testing  refactor compute image test 
+__label__objective __label__quality  refactor action execution reporter 
+__label__quality  refactoring exceptions 
+__label__integration  refactoring api interface freezer ui 
+__label__objective __label__quality  refactor policy parser init validate service helper 
+__label__refactoring  refactor common function load drivers 
+__label__quality  refactor keystone wsgi eventlet app 
+__label__objective __label__quality __label__testing  testobjectcontroller refactoring 
+__label__objective __label__testing  refactored access requestcontext 
+__label__objective __label__quality  refactor clustercomplexname 
+__label__objective __label__quality __label__testing  refactor vpn functional test use common template 
+__label__objective __label__testing  vmware unit test refactoring 
+__label__integration __label__objective  db api refactoring 
+__label__refactoring  refactor zaqarwebsocketservice function thunks 
+__label__integration __label__objective  vmware session management refactor tool 
+__label__objective __label__testing  refactoring nova ha test use neutron network manager 
+__label__integration __label__objective __label__testing  baremetal volume driver refactoring test 
+__label__objective __label__quality __label__testing  refactoring datasource job job binary validations 
+__label__objective __label__quality  refactoring exceptions 
+__label__objective __label__quality  refactor format validate parameter fuction reduce complexity 
+__label__testing  refactor unit test nova compute class 
+__label__integration __label__objective __label__quality  code refactoring couchdb 
+__label__objective __label__quality __label__testing  refactor test service object 
+__label__objective __label__quality __label__testing  integration test refactoring 
+__label__integration __label__quality  refactor murano installation guide 
+__label__objective __label__quality  opendaylight driver refactor handle sync issue 
+__label__integration __label__objective __label__quality __label__testing  refactor bmc provision maintenance 
+__label__quality __label__testing  placement refactor instance translate function 
+__label__objective __label__quality  refactor pbm support 
+__label__refactoring  refactor upgrade controlplane part 
+__label__testing  refactor merge dicts helper function test 
+__label__integration __label__objective  image api v image model client test refactoring 
+__label__integration __label__objective  fix index variable refactoring 
+__label__objective __label__testing  refactor api unit test extensible 
+__label__integration __label__quality  refactor api utilities api utils py 
+__label__objective __label__quality  small refactor dnat app 
+__label__integration __label__objective __label__quality  vmware refactor vim util reuse exist util method 
+__label__objective __label__quality __label__testing  sample refactoring test code retargetable client 
+__label__integration __label__objective  refactor image functional test 
+__label__objective __label__quality  refactor assignment expansion relate function 
+__label__objective __label__quality  refactoring iscsi deploy code iscsi deploy py 
+__label__objective __label__quality __label__refactoring __label__testing  refactor nonglobal config in giant patch 
+__label__objective __label__quality __label__testing  refactoring cli relate test 
+__label__objective __label__quality __label__testing  refactor test build pxe config options test 
+__label__objective __label__quality  refactor init instance resume guests state 
+__label__objective  refactoring generic benchmark cleanup 
+__label__refactoring  refactoring merge aim statuses 
+__label__integration  xx refactor db consistent 
+__label__objective __label__quality  refactor currentcontextentrypoint function 
+__label__objective __label__quality __label__testing  refactor httprelated exceptions 
+__label__integration  refactor glare api 
+__label__objective __label__testing  refactor index method compute controller 
+__label__objective __label__quality __label__testing  refactored data upgrade test test migrations 
+__label__testing  dnm test sprint toci refactoring 
+__label__objective __label__testing  probe test refactoring 
+__label__testing  refactor skipif test use irrelevantfiles 
+__label__objective __label__quality __label__testing  fix server deletion issue add test refactoring 
+__label__objective __label__quality __label__testing  refactor test volume file 
+__label__objective __label__quality  refactor register nod dialog use reduxform 
+__label__objective __label__quality  refactor test by domain project 
+__label__objective __label__quality  huawei refactor driver second time 
+__label__objective __label__quality __label__testing  refactor functional base test class 
+__label__integration __label__objective  refactor commandsuccess failure class functool partial 
+__label__quality  db code refactor simplify cleanup 
+__label__objective __label__quality __label__testing  fix fail refactoring cli test execution 
+__label__objective __label__quality  refactor set vf guid imporve readability 
+__label__objective __label__quality __label__testing  refactor bot base argparse 
+__label__objective  xenapi refactor snapshots resize 
+__label__objective __label__testing  refactor remove unused test method 
+__label__integration __label__objective  refactoring contrib test network test 
+__label__integration __label__objective __label__testing  refactor ffwd run run rd controlplane 
+__label__integration __label__objective __label__testing  odl driver refactor unit test update 
+__label__integration __label__objective __label__testing  refactor netrings fact its test for 
+__label__objective __label__refactoring  refactor workflow controller fix bug fail workflow 
+__label__objective __label__quality  refactor vm vdi cleaner py connection use 
+__label__objective __label__quality __label__testing  refactor rally plugin 
+__label__objective __label__quality __label__testing  refactor nova test use neutron 
+__label__objective __label__refactoring  refactor datatable filter function mixin 
+__label__objective __label__testing  add update testrail field functionality testrail reporter small refactoring description parse 
+__label__objective __label__quality __label__testing  refactor base test class inheritance reuse 
+__label__testing  dnm test featurset conf refactor 
+__label__objective __label__quality __label__testing  refactoring retry decorator 
+__label__integration __label__objective __label__quality  refactor ceilometer alarm api 
+__label__objective __label__quality __label__testing  refactor sg sgr event hand add test coverage 
+__label__objective __label__quality  refactor nova virt ironic driver get host stats 
+__label__objective __label__quality __label__testing  code refactor generate integer testcase 
+__label__objective __label__testing  rt refactor unit test trackable migrations 
+__label__objective __label__quality __label__testing  refactor filter sensitivity test prepartion ldap support 
+__label__quality __label__refactoring  refactor local action scp task function 
+__label__integration __label__objective __label__quality  refactor ethercalcspecific code db 
+__label__objective __label__testing  refactoring log utils 
+__label__integration __label__objective  hyperv refactor livemigr avoid get disk paths remotely 
+__label__integration __label__quality __label__testing  refactor api test update alarm 
+__label__objective __label__quality __label__testing  refactoring castellan configuration 
+__label__quality  fix doc accord api refactoring 
+__label__objective __label__quality __label__testing  refactor test volume file 
+__label__integration  wip refactor floatingip northbound api methods 
+__label__integration __label__objective __label__testing  refactor basic integration job ansible versions 
+__label__objective __label__quality __label__testing  vmware unit test refactoring 
+__label__objective __label__testing  wip ldap test refactor 
+__label__integration  wip refactor qos policy northbound api methods 
+__label__integration __label__objective  refactor network ip availability api add available ips file 
+__label__quality __label__refactoring  refactor boolean condition function 
+__label__objective __label__quality  refactor build device metadata 
+__label__objective __label__testing  refactor webui test 
+__label__objective __label__testing  refactoring buildapp unittestapp 
+__label__integration __label__objective  refactor validations retrieval performance 
+__label__quality __label__refactoring __label__testing  model refactoring 
+__label__objective __label__quality  refactor meter utility view function 
+__label__objective __label__quality  cod standards style refactor runner 
+__label__objective __label__quality  refactor methods use describer class 
+__label__refactoring  refactoring authorization unify decorator function 
+__label__objective  refactor shutdown process shutdown all process 
+__label__objective __label__quality __label__testing  refactor unit test dummy engine 
+__label__objective __label__quality __label__testing  rt refactor resize claim unit test 
+__label__objective __label__refactoring  minor refactor wsgi py 
+__label__objective __label__quality  iscsi initiator refactoring iscsidsc dll 
+__label__objective  refactor status function add web endpoints allow params 
+__label__objective __label__quality  refactor db base plugin v remove code duplication 
+__label__objective __label__quality  api cinder refactor microversioning logic 
+__label__objective __label__quality __label__testing  refactor test s acl 
+__label__objective __label__testing  refactored client code test consume xml 
+__label__integration __label__objective  refactor service vips redis ovn dbs 
+__label__quality  refactored filter change fuelclient audit 
+__label__objective __label__quality  refactored atomic action authenticate scenario 
+__label__integration __label__objective  refactor api version range support 
+__label__objective __label__quality __label__testing  refactor flavor profile work 
+__label__refactoring  refactor blockdevice base function 
+__label__integration __label__objective  refactored version attribute 
+__label__objective __label__quality  refactoring security group rule section 
+__label__objective __label__quality  refactor configure float ips router 
+__label__objective __label__quality  use static ip address instead dhcp admin network pass netcfg choose interface parameter ubuntu centos redhat pass orchestrator static ip instead dhcp admin network fix ip order admin ips break deployment provision assign ip address small stylistic refactoring network manager fix test capacity time fail 
+__label__objective __label__quality  refactors pegleg cli use single command 
+__label__objective __label__quality __label__testing  refactor keystone test use openstacksdk 
+__label__quality  refactors to bytes 
+__label__objective __label__quality  lxc refactor attach detach volumes 
+__label__objective __label__quality __label__testing  refactor os availability zone list 
+__label__integration __label__objective __label__testing  refactor unit test instancegroup object 
+__label__quality  refactor netlinkconntrack 
+__label__objective __label__quality  refactor config opt derive common base wip 
+__label__quality __label__refactoring  refactor config component 
+__label__objective __label__quality  refactor parse metadata common function 
+__label__objective __label__quality  refactored help string generation 
+__label__integration __label__testing  refactor unit test rest api 
+__label__objective __label__quality __label__testing  refactor patch nsspamldapd package 
+__label__objective __label__quality __label__testing  refactor namespace variable creation 
+__label__integration __label__objective __label__testing  refactor patch openssh package 
+__label__objective __label__quality __label__testing  resourcetracker begin refactor unit test 
+__label__objective __label__quality  refactor sql filter code clarity 
+__label__objective __label__quality __label__testing  refactor roothelperprocess asyncprocess 
+__label__integration __label__objective  refactor action create image api 
+__label__integration __label__quality  refresh refactor readme 
+__label__objective __label__quality  refactor generic cleanup mechanism 
+__label__integration __label__objective  refactoring initialize connection api use taskflow 
+__label__integration __label__quality  refactor processmonitor api 
+__label__objective __label__quality __label__testing  refactor quotas test 
+__label__quality __label__testing  vmware refactor vmdk unit test 
+__label__objective __label__testing  field deployment tag test test set alongside migration support change add fabfile task perform creation new alembic migration add additional refactoring nonmajor fix 
+__label__objective __label__testing  refactor tempest test code 
+__label__objective __label__testing  refactor unit test compute service list command 
+__label__objective __label__quality  minor refactor cleanup make proxy 
+__label__integration  refactoring extensions 
+__label__quality __label__refactoring  report refactor process plot plot 
+__label__integration __label__objective  add task object rest handlers refactored 
+__label__objective __label__quality __label__testing  integration scenario test refactoring 
+__label__integration __label__testing  refactor self api test 
+__label__objective __label__quality  refactor keystone reduce keystoneauth usage complexity 
+__label__objective __label__quality __label__testing  refactoring unit test directories 
+__label__integration __label__objective  update upper constraints file feature policyrefactor 
+__label__refactoring  refactoring simplify signature finish function 
+__label__objective __label__quality __label__testing  cache refactoring management middleware 
+__label__integration __label__objective  refactor v v apis support 
+__label__quality  refactoring structure rally verification 
+__label__objective __label__quality  refactor unify driver version string 
+__label__integration __label__objective  refactor image layer prep add glance v support 
+__label__objective __label__quality  refactor futurist call 
+__label__quality  refactor image module 
+__label__integration __label__objective __label__testing  roles rbac test refactor keystone api v roles 
+__label__integration __label__objective  refactor update cell users table 
+__label__objective __label__quality  refactor fuelwebs run test sh 
+__label__testing  wip test seret refactor 
+__label__quality  refactor preference provider 
+__label__objective __label__quality  refactor keyring store logic 
+__label__objective __label__quality __label__testing  refactor config getmanifest command 
+__label__objective __label__quality  refactor generalize parameters pass plugins 
+__label__objective __label__quality  huawei refactor driver second time 
+__label__objective __label__testing  refactor json validator 
+__label__objective __label__refactoring  refactor huawei volume driver 
+__label__integration __label__objective  fix issue introduce neutron config file refactorying 
+__label__quality  refactor clonemapper internal structure 
+__label__refactoring  refactor aws ec instance delete handle 
+__label__quality  refactored service definition py service resources yaml 
+__label__quality  refactor function read astute yaml directly 
+__label__integration  refactoring common client api methods 
+__label__objective __label__testing  refactor volume unit test fakevolume class volume v 
+__label__testing  refactor daemonset upgrade rollout test accord change 
+__label__objective __label__quality  refactor minor issue improve code readability 
+__label__refactoring  refactor set default ca 
+__label__objective __label__quality __label__testing  refactor test 
+__label__objective __label__testing  validation refactor 
+__label__objective __label__testing  timeout module refactoring 
+__label__integration __label__objective  refactor hostapi service update 
+__label__objective __label__testing  refactor resourceproviderlisttestcase 
+__label__integration __label__objective  hyperv refactors utilsfactory 
+__label__quality __label__testing  refactor ownership check instance delete 
+__label__quality __label__refactoring  refactor trust format expire at 
+__label__objective __label__quality __label__testing  refactor show method compute controller 
+__label__objective  refactor gnocchi transformer 
+__label__objective __label__quality __label__testing  libvirt refactor create image storagepolicy 
+__label__objective __label__quality __label__testing  refactor test code reduce duplication 
+__label__objective __label__quality __label__testing  create rbac utils fixture refactor test 
+__label__objective __label__quality __label__testing  add test client module refactors 
+__label__objective __label__quality __label__testing  refactor configuration setup document config 
+__label__refactoring __label__testing  pecan controller test refactor 
+__label__integration  complete refactor glancestores api 
+__label__objective __label__testing  wip remove code selenium test refactor 
+__label__objective __label__quality  refactor create attribute statement idp method 
+__label__quality __label__refactoring  refactor common code tripleoci 
+__label__objective __label__quality __label__testing  refactor placement fixtures 
+__label__integration __label__objective  api call error handle refactoring 
+__label__integration __label__objective __label__quality __label__testing  refactor hitachi block storage driver patch 
