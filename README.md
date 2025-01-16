@@ -1,4 +1,4 @@
-# DSCI.644.02 Group 2 - Code review category prediction
+# Code review category Classfication
 
 ## Setup
 Before running the analysis make sure to install all required python packages.
